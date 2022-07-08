@@ -16,7 +16,7 @@ GUI to navigate to next words
 2. If you click on ❌, it's detect as you don't know word and it will remain in your learning words list.
 
 EXAMPLE
-<img src="./ss/ss_fr.png" width="30%"> :: <img src="./ss/ss_eng.png" width="30%">
+<img src="./ss/ss_fr.png" width="30%">        <img src="./ss/ss_eng.png" width="30%">
 
 Appréciez d'apprendre!!!
 :)😊😁
